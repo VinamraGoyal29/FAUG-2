@@ -1,1 +1,2 @@
-# FAUG-2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
